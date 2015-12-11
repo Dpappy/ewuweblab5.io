@@ -30,7 +30,8 @@ h1 {
     background:black;
     padding: 8px;
 }
-h3{color:white;}
+h3{color:white;
+backgroun-color:black;}
 
 * Navigation */
  
@@ -77,14 +78,9 @@ p {
     padding: 50px;
     width: 200px;
     
-  .primary col {
-    
-    padding: 50px 50px; 
-    width: 100%;
-    height: 1000px;
-    background-color:black;
-}
+  
 
+   
 p 
 {
   float: right;

@@ -34,16 +34,16 @@ h1 {
 
 
 .secondary-content {
-    margin-left: 30px;
+    margin-left: 60px;
     width: 500px;
     padding: 50px ;
         background-color: black;
-    height: 1500px;
+    height: 1000px;
 }
 
 }
 
-.secondary col {height:1000px;}
+secondary col {height:1000px;}
 p 
 {
   float: right;
