@@ -71,18 +71,13 @@ body {
     background-position: fixed;
         }
 }
-p {
-   color: white;
-    background-color: black;
-    border: none;
-    padding: 50px;
-    width: 200px;
-    
+
   
 
    
 p 
 {
+    height: 10000px;
   float: right;
     color:white;
   
@@ -90,7 +85,7 @@ p
   background:black;
   padding: 50px; /* 10px / 560px = 0.01785714285714 */
   margin: 100px 50px; /* 10px / 1000px = .01 */
-  width: 30%; /* 560px / 1000px = .56 */
-    height: 200px;
+   /* 560px / 1000px = .56 */
+   
 }  
-    
+h2{color:white;}  
