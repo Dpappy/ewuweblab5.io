@@ -1,0 +1,93 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+
+.color-1 {background: black;}
+
+.color-2 {background: white;}
+/* Textures or Patterns*/
+.pattern-1 { background:url(https://s-media-cache-ak0.pinimg.com/236x/78/72/85/787285725daa071f32ef52d08765fc3a.jpg);
+
+/* Imagery */
+.imagery-1 {
+    background: url("../img/zoom2.jpg");
+
+/* Icons */
+
+
+/* Typography */
+h1{font-family: 'Ubuntu', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align:center;
+    font-size:3em;
+    display: inline-block;
+    background-color:black;
+    padding: 8px;}
+    
+    p 
+{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+  float: right;
+    color:white;
+  letter-spacing: 3px;
+    text-align: left;
+  background:black;
+  padding: 50px; /* 10px / 560px = 0.01785714285714 */
+  margin: 100px 50px; /* 10px / 1000px = .01 */
+  width: 30%; /* 560px / 1000px = .56 */
+    height: 200px;
+}
+
+    h2,h3 {font-family: 'Ubuntu', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align:center;
+        background-color:black;}
+/* Forms */
+input {
+    float: right ;
+    align: top;
+    border: 5px solid black;
+  display:inline-block; 
+    background-color: white;
+}
+
+#textarea {
+    float: right;
+    border: 30px solid black;
+    margin-bottom: 100px;
+    
+}
+
+/* Tables */
+<h2>Table</h2>
+			<table>
+				<tr>
+					<td>Col A</td>
+					<td>Col B</td>
+					<td>Col C</td>
+				</tr>				
+				<tr>
+					<td>Data A1</td>
+					<td>Data A2</td>
+					<td>Data A3</td>
+				</tr>
+				<tr>
+					<td>Data B1</td>
+					<td>Data B2</td>
+					<td>Data B3</td>
+				</tr>
+				<tr>
+					<td>Data C1</td>
+					<td>Data C2</td>
+					<td>Data C3</td>
+				</tr>								
+			</table>
+
+/* Cards */

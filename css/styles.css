@@ -42,26 +42,16 @@ h3 {background-color:black;
         background-color: black;
     height: 1200px;
     margin-right: 800px;
+    margin-bottom: 50px;
 }
 .secondary-content ul{
     position: top;
 }
 
 .secondary col {float: right;height:1000px;}
-p 
-{
-  float: right;
-    color:white;
-  
-    text-align: left;
-  background:black;
-  padding: 50px; /* 10px / 560px = 0.01785714285714 */
-  margin: 100px 50px; /* 10px / 1000px = .01 */
-  width: 30%; /* 560px / 1000px = .56 */
-    height: 200px;
-}
 
 
+.secondary content {align: top;}
 
 /* Typography */
 h1 {
@@ -75,7 +65,26 @@ h1 {
     background:black;
     padding: 8px;
 }
-h3{color:white;}
+h2,h3 {font-family: 'Ubuntu', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align:left;
+        background-color:black;}
+p 
+{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+  float: right;
+    color:white;
+  letter-spacing: 3px;
+    text-align: left;
+  background:black;
+  padding: 50px; /* 10px / 560px = 0.01785714285714 */
+  margin: 100px 50px; /* 10px / 1000px = .01 */
+  width: 30%; /* 560px / 1000px = .56 */
+    height: 200px;
+}
 
 /* Navigation */
  
@@ -129,7 +138,8 @@ body {
         }
 }
 p {
-   color: white;
+   font-family:
+    color: white;
     background: black;
     border: none;
     padding: 50px;
@@ -175,5 +185,19 @@ width: 500px;
 }
 
 input {
-  display:block;
+    float: right ;
+    align: top;
+    border: 5px solid black;
+  display:inline-block; 
+    background-color: white;
 }
+
+#textarea {
+    float: right;
+    border: 30px solid black;
+    margin-bottom: 100px;
+    
+}
+
+
+
