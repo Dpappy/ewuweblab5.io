@@ -7,13 +7,15 @@
 .color-1 {background: black;}
 
 .color-2 {background: white;}
-/* Textures or Patterns*/
-.pattern-1 { background:url(https://s-media-cache-ak0.pinimg.com/236x/78/72/85/787285725daa071f32ef52d08765fc3a.jpg);
 
+.color-3 {background: red;}
+/* Textures or Patterns*/
+.pattern-1 { background-image:url("../img/zoom2.jpg");
+.pattern-2 { background-image:url("../img/bluebrains5.jpg");
 /* Imagery */
 .imagery-1 {
-    background: url("../img/zoom2.jpg");
-
+    background-image: url("../img/zoom2.jpg");
+.imagery-2 {
 /* Icons */
 
 
@@ -64,7 +66,47 @@ input {
     margin-bottom: 100px;
     
 }
+li  {
+  float: left;
+  list-style: none;
+    background-color:black;
+    color:white;
+        padding: 5px;
+    align-content:top;
+}
 
+
+
+ul {
+  float: left;
+  list-style: none;
+    background-color:black;
+    color:white;
+        
+    align-content:top;
+}
+
+a:link {
+    
+   color: white;
+  border: 50px;
+  display: inline-block;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3em;
+  height: 50px;
+  width: 100px;
+    background: black;
+
+}
+
+a:hover {
+  border-radius: 10px;
+  
+  color: darkred;
+  transition: all .5s;
+  background: -webkit: 
 /* Tables */
 <h2>Table</h2>
 			<table>
