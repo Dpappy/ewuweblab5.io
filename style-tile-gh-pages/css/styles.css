@@ -8,7 +8,7 @@
 
 .color-2 {background: white;}
 
-.color-3 {background: red;}
+.color-3 {background: lightcyan;}
 /* Textures or Patterns*/
 .pattern-1 { background-image:url("../img/zoom2.jpg");
 .pattern-2 { background-image:url("../img/bluebrains5.jpg");
@@ -111,25 +111,27 @@ a:hover {
 <h2>Table</h2>
 			<table>
 				<tr>
-					<td>Col A</td>
-					<td>Col B</td>
-					<td>Col C</td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
 				</tr>				
 				<tr>
-					<td>Data A1</td>
-					<td>Data A2</td>
-					<td>Data A3</td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
 				</tr>
 				<tr>
-					<td>Data B1</td>
-					<td>Data B2</td>
-					<td>Data B3</td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
 				</tr>
 				<tr>
-					<td>Data C1</td>
-					<td>Data C2</td>
-					<td>Data C3</td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
+					<td><img src="../img/BlobThing.jpg"></td>
 				</tr>								
 			</table>
+
+		</section> 
 
 /* Cards */

@@ -53,6 +53,8 @@ h3 {background-color:black;
 
 .secondary content {align: top;}
 
+table img{width: 300px;}
+
 /* Typography */
 h1 {
     font-family: 'Ubuntu', sans-serif;
@@ -85,6 +87,16 @@ p
   width: 30%; /* 560px / 1000px = .56 */
     height: 200px;
 }
+
+table { 
+    margin-top: 100px;
+    margin-left: 150px;
+width: 600px;
+    height: 600px;
+
+}
+
+
 
 /* Navigation */
  
